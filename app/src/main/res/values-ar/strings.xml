@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">/مستوى القراءة</string>
+    <string name="save_book">حفظ الكتاب</string>
+    <string name="edit_book">تعديل الكتاب</string>
+    <string name="delete_book">حذف الكتاب</string>
+    <string name="read_pages_percent">P%</string>
+    <string name="book_author">المؤلف</string>
+    <string name="book_name">اسم الكتاب</string>
+    <string name="entry_book_name">أدخل اسم الكتاب</string>
+    <string name="entry_book_author">أدخل اسم المؤلف</string>
+    <string name="entry_book_pages">أدخل صفحات الكتاب</string>
+    <string name="entry_book_finished">أدخل المقروء</string>
+    <string name="add_book_title">إضافة كتاب</string>
+    <string name="update_book">تحديث كتاب</string>
+</resources>

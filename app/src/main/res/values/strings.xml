@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Readings</string>
+    <string name="save_book">Save Book</string>
+    <string name="edit_book">Edit Book</string>
+    <string name="delete_book">Delete Book</string>
+    <string name="read_pages_percent">P%</string>
+    <string name="book_author">Book Author</string>
+    <string name="book_name">Book Name</string>
+    <string name="entry_book_name">Book Name</string>
+    <string name="entry_book_author">Book Author</string>
+    <string name="entry_book_pages">Book Pages</string>
+    <string name="entry_book_finished">Book Finished</string>
+    <string name="add_book_title">Add Book</string>
+    <string name="update_book">Update Book</string>
+</resources>
